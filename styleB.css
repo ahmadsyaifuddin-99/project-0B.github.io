@@ -77,6 +77,12 @@ body {
 }
 
 
+/*Background Home Page*/
+.index {
+	background-image:  url(img/cloud2.jpg);
+}
+
+
 /*Background Game Page*/
 .games {
 	background-image: url(img/91657.jpg);
