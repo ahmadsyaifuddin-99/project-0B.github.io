@@ -352,6 +352,14 @@ margin-top: 2px;
 }
 
 
+
+
+/*Background Al-Qur'an Page*/
+.alquran {
+	background-image: url(img/cloud3.jpg);
+}
+
+
 /*Al-Qur'an Text Nav Hover*/
 #alquran {
 	font-weight: bold;
