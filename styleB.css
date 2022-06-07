@@ -126,11 +126,8 @@ text-transform: uppercase;
 transition: .5s;
 margin-top: 2px;
 }
-.gamesclick a:hover {
-border-top-left-radius: 30px;
-border-bottom-right-radius: 30px;
-background: yellow;
-}
+
+
 
 .gamesclick a:hover  {
 	transition: all .5s;
